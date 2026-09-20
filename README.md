@@ -1,4 +1,4 @@
-# For Riya — My Story
+# For Riya — Salt And Pepper
 
 An interactive, scroll-based story website about my journey — from an ITI student,
 to machines, to computers, to code, to 3D... and the idea of Riya.
